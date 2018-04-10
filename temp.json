@@ -1,32 +1,10 @@
 {
-    "Gowner": {},
     "autoAdd": true,
     "autoJoin": true,
-    "autoJoinTicket": false,
     "autoLeave": false,
-    "autoRead": false,
-    "canceljoin": false,
-    "cancelprotect": false,
-    "changeGroupPicture": {},
-    "changePicture": {},
-    "checkSticker": false,
-    "contact": false,
-    "dblack": false,
-    "dblacklist": false,
-    "detectMention": false,
     "keyCommand": "",
-    "kickerjoin": false,
-    "kickjoin": false,
-    "kickmeber": true,
     "lang": "JP",
-    "mimic": {
-        "copy": false,
-        "status": true,
-        "target": {}
-    },
     "reread": false,
-    "targets": {},
-    "timeline": true,
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
@@ -49,6 +27,4 @@
         "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
     ],
-    "wblack": false,
-    "wblacklist": false
 }
